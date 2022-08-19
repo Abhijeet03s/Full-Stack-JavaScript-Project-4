@@ -1,16 +1,18 @@
+# Full Stack Javascript Bootcamp Assignment 
 
 ![iNeuron, LCO](https://img.shields.io/badge/iNeuron-LCO-green)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-![Name](https://img.shields.io/badge/Project%20Made%20by-Abhijeet%20Sharma-yellow)
-
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%20%7C%20CSS-blue)
 
-![Live class](https://img.shields.io/badge/Law%20Home%201-Page%20Home%20Page-orange)
+![Name](https://img.shields.io/badge/Project%20Made%20by-Abhijeet%20Sharma-white)
+
+![Live class](https://img.shields.io/badge/Live%20Project%204-Digital%20Marketing%20Homepage-orange)
 
 # Live Project 4 : Digital Marketing Homepage
 
-## Project 4: [Live Link](https://live-project-4-fs-js.netlify.app/)
+## Project 4: (Mobile Responsive)
+[Live Link](https://live-project-4-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     - Learned to use svg as background image.
@@ -19,9 +21,9 @@
     
 ---
 
-## Time taken to finish this project⏲
+## Time taken to finish this project(including adding media queries)⏲
 
-- >3hours are needed to finish.
+> 4hours are needed to finish.
 
 #### Screenshot
 
